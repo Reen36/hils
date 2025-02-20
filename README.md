@@ -1,0 +1,2 @@
+# hils
+hils apk update
